@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+
+# Executables
+*.exe
+*.out
+
+# Build directories
+build/
+bin/
+
+# Dependency directories
+deps/
+
+# IDE files
+.vscode/
+.idea/
+
+# Editor backup files
+*~
